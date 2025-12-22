@@ -12,7 +12,7 @@ set -e
 ##
 
 INSTALL_NUTTX="false"
-INSTALL_SIM="false"
+INSTALL_SIM="true"
 INSTALL_ARCH=`uname -m`
 
 # Parse arguments
